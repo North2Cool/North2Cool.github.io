@@ -299,23 +299,23 @@ document.addEventListener('DOMContentLoaded', (event) => {
     
     
 //         const words = [
-//             "HELLO WORLD",
-//             "404",
-//             "WELCOME",
-//             "500",
-//             "ERROR",
-//             "COMPLETE",
-//             "JAVASCRIPT",
-//             "PHP",
-//             "CSS",
-//             "HTML",
-//             "200",
-//             "LARAVEL",
-//             "CODING",
-//             "PROGRAMMER",
-//             "WEBSITE",
-//             "MOBILE",
-//         ];
+//         "JUST NORTH",
+//         "404",
+//         "WELCOME",
+//         "500",
+//         "ERROR",
+//         "COMPLETE",
+//         "LINUX",
+//         "PHP",
+//         "CSS",
+//         "HTML",
+//         "NORTH",
+//         "DEBIAN",
+//         "NGINX??",
+//         "APACHE??",
+//         "MARIADB",
+//         "UBUNTU",
+//    ];
     
 //         const texts = document.querySelectorAll(".text");
 //         texts.forEach(t => {
