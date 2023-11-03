@@ -96,22 +96,22 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 
     const words = [
-        "HELLO WORLD",
+        "JUST NORTH",
         "404",
         "WELCOME",
         "500",
         "ERROR",
         "COMPLETE",
-        "JAVASCRIPT",
+        "LINUX",
         "PHP",
         "CSS",
         "HTML",
-        "200",
-        "LARAVEL",
-        "CODING",
-        "PROGRAMMER",
-        "WEBSITE",
-        "MOBILE",
+        "NORTH",
+        "DEBIAN",
+        "NGINX??",
+        "APACHE??",
+        "MARIADB",
+        "UBUNTU",
     ];
 
     const texts = document.querySelectorAll(".text");
